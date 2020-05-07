@@ -1,0 +1,17 @@
+{
+  "name": "sabizuz",
+  "displayName": "sabizuz",
+  "expo": {
+    "name": "sabizuz",
+    "slug": "sabizuz",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
